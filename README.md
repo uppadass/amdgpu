@@ -1,2 +1,1 @@
-# amdgpu
-AMD GPU virtualization 
+DO NOT OPEN THIS FILE 
